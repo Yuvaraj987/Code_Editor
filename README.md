@@ -12,7 +12,7 @@ A simple and customizable code editor built with modern web technologies.
 
 ## Screenshot
 
-![Screenshot](/Code).png)
+![Screenshot](/Code.png)
 
 ## License
 
