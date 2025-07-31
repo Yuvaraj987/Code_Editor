@@ -4,11 +4,11 @@ A simple and customizable code editor built with modern web technologies.
 
 ## Features
 
-- Syntax highlighting for multiple languages
-- Real-time code editing
-- File management
-- Responsive UI
-- Customizable themes
+- ✨ Syntax highlighting for multiple languages
+- ⚡ Real-time code editing
+- 📁 File management
+- 📱 Responsive UI
+- 🎨 Customizable themes
 
 ## Screenshot
 
